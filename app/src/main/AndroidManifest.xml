@@ -10,7 +10,6 @@
         android:theme="@style/AppTheme">
         <activity android:name=".Menu_Abjad">
             <intent-filter>
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -22,8 +21,9 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+        <activity android:name=".Permainan1" />
+        <activity android:name=".Game"></activity>
     </application>
 
 </manifest>

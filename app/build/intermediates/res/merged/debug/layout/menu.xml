@@ -60,6 +60,12 @@
             android:textColor="#ff0101"
             android:background="#929190"
             android:textSize="50px" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="left|top"></LinearLayout>
     </FrameLayout>
 
     </RelativeLayout>

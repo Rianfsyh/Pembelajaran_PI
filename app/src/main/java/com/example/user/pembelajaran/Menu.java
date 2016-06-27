@@ -37,7 +37,7 @@ public class Menu extends AppCompatActivity {
         bt_game.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent keMenuPermainan = new Intent(Menu.this, Menu_Bilangan.class);
+                Intent keMenuPermainan = new Intent(Menu.this, Game.class);
                 startActivity(keMenuPermainan);
 
             }
@@ -46,7 +46,7 @@ public class Menu extends AppCompatActivity {
         bt_exit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent keMenuKeluar = new Intent(Menu.this, Menu_Abjad.class);
+                System.exit(0);
 
             }
         });

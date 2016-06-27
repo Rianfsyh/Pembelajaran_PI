@@ -28,6 +28,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.user.pembelajaran.Permainan1" />
+        <activity android:name="com.example.user.pembelajaran.Game" />
     </application>
 
 </manifest>

@@ -1,15 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_s.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_s.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
@@ -32,40 +28,64 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_a.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_a.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_g.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_g.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_2.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_2.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_y.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_y.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gamelayout_2.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\gamelayout_2.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_bilangan.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\menu_bilangan.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_n.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_n.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_permainan1.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\activity_permainan1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_b.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_8.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_r.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_r.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gamelayout_1.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\gamelayout_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_x.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_h.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_h.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -92,16 +112,16 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\menu_abjad.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_4.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_4.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gamelayout_4.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\gamelayout_4.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_1.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_1.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
@@ -124,16 +144,12 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_7.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_7.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -144,12 +160,164 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_10.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_m.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_m.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_p.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_v.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_v.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_j.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_j.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_d.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_bilangan.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\menu_bilangan.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_k.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_k.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_e.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_e.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_5.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_u.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_u.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_c.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_f.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_o.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_i.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_i.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_q.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_q.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_t.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_t.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_l.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gamelayout_3.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\gamelayout_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_6.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_w.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_9.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abjadlayout_z.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\abjadlayout_z.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -160,7 +328,7 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\build\\intermediates\\res\\merged\\debug\\layout\\angklayout_3.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Pembelajaran\\app\\src\\main\\res\\layout\\angklayout_3.xml"
     }
 ]
